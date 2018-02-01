@@ -38,7 +38,10 @@ p.myclass {}
 * The paragraph featureText should be italic and a 30px size
 * Make sure that the EM and STRONG tags work in both regular and feature text paragaphs. This may mean that extra rules will be needed for the featureText paragraphs.
 
-#### List Elements
+#### Lis
+
+
+t Elements
 * UL and OL tags should have a margin of 30px 0 30px 80px
 * Nested UL and OL tags should have a margin of 12px 0 12px 40px
 * List items in UL should be "disc" style
