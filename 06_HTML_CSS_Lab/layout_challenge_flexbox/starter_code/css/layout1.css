@@ -3,14 +3,16 @@
     margin: 0 10px 10px 10px;
 }
 
-.exerciseMain {
 
+
+.exerciseMain {
+display:flexbox;
 }
 
 .exerciseMainContent {
-
+flex 1
 }
 
 .exerciseMainAside {
-
+flex 1
 }
