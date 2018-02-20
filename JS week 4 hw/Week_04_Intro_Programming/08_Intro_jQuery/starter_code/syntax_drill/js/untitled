@@ -1,0 +1,25 @@
+
+jQuery(document).ready(function(){
+	
+}
+
+
+jQuery ('#submit').click(function(){
+	
+var a = jQuery("#a").val();
+var b = jQuery("#b").val();
+
+
+
+// If A > B show >
+
+if(a>b){
+	jQuery("#comparison").text("==")
+}
+if(isNaN(a) || iNaN (b))== NaN){
+jQuery("#comparison").text("NaN");
+	
+	jQuery("#comparison")
+}
+
+}

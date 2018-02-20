@@ -4,6 +4,32 @@
      -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
      box-sizing: border-box; /* IE */
 }
+header {
+	background:#033048;
+}
+.logo {color: white
+
+}
+
+.logo1 li{
+	float: left;
+}
+.logo1 li{color: #f9e42e
+}
+
+.logo1 li{width: 200px}
+}
+.logo1 li{padding: 10px}
+
+.twoweeks h2{font-size: 40px
+}
+
+.discussion1{
+	color: lightgray
+}
+.discussion1{font-size: 24px}
+.discussion2{color: lightgray}
+.discussion2{font-size: 24px}
 
 /* Clear fix hack */
 .clearfix:after {
