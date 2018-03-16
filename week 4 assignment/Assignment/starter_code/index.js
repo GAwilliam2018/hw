@@ -1,27 +1,25 @@
-alert("hi")
 
-alert("test2")
 
 function addMe(first,second){
 }// end addMe
 	jQuery(document).ready(function (){
 
-	jQuery(".readmore").click(function)	(e) {
+	jQuery(".readmore").click(function(e){
 		e.preventDefault();
 		jQuery("#show-this-on-click").slideDown();
 		jQuery(".readmore").hide();
-		jQuery("readless").show();
+		jQuery(".readless").show();
 	});
-	jQuery("readless").click(function)(e){
+	jQuery(".readless").click(function(e){
 		e.preventDefault();
-		jQuery(#show-this-on-click).slideUp();
+		jQuery("#show-this-on-click").slideUp();
 		jQuery(".readless").hide();
-		jQuery("readmore").show();
+		jQuery(".readmore").show();
 	});
-jQuery(".learnmore").click(function) (e) {
-	e.preventDefault;
+jQuery(".learnmore").click(function (e) {
+	e.preventDefault();
 	jQuery("#learnmoretext").slideDown();
-	jQuery("learnmore").hide();
+	jQuery(".learnmore").hide();
 });
 
 });
